@@ -1,0 +1,66 @@
+.wrappers{
+    margin-top: 4rem;
+}
+input{
+    margin-bottom: .75rem !important;
+    margin-right: 1rem;
+}
+.icon{
+    position: absolute;
+    top: calc(54%);
+    size: .3rem;
+    padding-right: 1.5rem !important;
+    margin-right: .25rem;
+    padding-bottom: .2rem !important;
+}
+/* .paymentFormControl{
+    right:  1.5rem;
+    padding-left: 3.5rem;
+} */
+.icon1{
+    position: absolute;
+    top: calc(40%);
+    right:2rem;
+    padding-left: .5rem !important;
+}
+.icon2{
+    position: absolute;
+    top: calc(40%);
+    right:3.5rem;
+    padding-left: 2.5rem !important;
+}
+.icon3{
+    position: absolute;
+    top: calc(40%);
+    right:5rem;
+    padding-left: 2.5rem !important;
+}
+.icon4{
+    position: absolute;
+    top: calc(40%);
+    right:6.5rem;
+    padding-left: 2.5rem !important;
+}
+.iconsetting{
+    padding-left: 3rem !important ;
+    
+}
+
+.getCodeButton,.Continue{
+   
+    border-radius: 1rem !important;
+}
+.Continue{
+    height: 2.5rem;
+    font-size: 1rem !important;
+   padding-bottom: .2rem !important;
+}
+
+.fontSize{
+    font-size: 1.1rem;
+}
+.QUICKPOS{
+    font-weight: bold;
+    font-size: 1.3rem;
+    text-decoration: none;
+}

@@ -1,0 +1,129 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+/* Headings */
+h1{
+    padding-top: 62px;
+    padding-left: 21px;
+    font-family: 'Lato';
+    font-style: 'not-italic';
+    font-weight: 900;
+    font-size: 3rem;
+    line-height: 2.5rem;
+    color: #404040;    
+}
+
+h4{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 1rem;
+    line-height: 1.2rem;
+}
+
+p{
+    font-family: 'Tajawal', sans-serif;
+    padding-top: 24px;
+    padding-left: 21px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 1rem;
+    color: #000000;
+}
+
+/* Fonts */
+.FontInter{
+    font-family: 'Inter', sans-serif;
+}
+.FontMulish{
+    font-family: 'Mulish', sans-serif;
+}
+.FontRoboto{ 
+    font-family: 'Roboto', sans-serif;
+}
+.FontLato{
+    font-family: 'Lato', sans-serif;
+}
+.FontQuicksand{
+    font-family: 'Quicksand', sans-serif;
+}
+.FontTajawal{   
+    font-family: 'Tajawal', sans-serif;
+}
+
+/* Colors */
+
+.GreenColor{
+    color: #22A447;
+}
+.GreenColorTwo{
+    color: #66D485;
+}
+.RedColor{
+ color: #BB4430;
+}
+.BlueColor{
+    color: #1890FF;
+   }
+.BlueColorTwo{
+    color: #197BBD;
+}
+.BlueColorThree{
+    color: #0066AF;
+}
+.BlueBackgroundColorThree{
+    background-color: #0066AF;
+}
+.DashboardColor{
+    background-color: #3E2EFF;
+}
+.LightBlue{
+    color: #D1E4FF;
+}
+.BlackColor{
+    color:#000000;
+}
+.GreyColor{
+    color: #404040;
+}
+.LightGreyColor{
+    color: #AEAEAE;
+}
+.textWhite{
+    color: #FFFFFF;
+}
+.HeaderIcons{
+
+    padding-top: 5rem;
+}
+.HeaderLink{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 0.8rem;
+    line-height: 0.5rem;
+
+}
+.descripton,
+.package{
+    font-size: 1rem;
+    padding-top: 2rem;
+    /* color: #000000; */
+}
+.Quick{
+    margin-top: -4rem;
+    padding-left: 0%;
+}
+.pay{
+    font-family: 'Quicksand';
+font-style: normal;
+font-weight: 700;
+font-size: 31px;
+}
+.place,
+.pay{
+    padding-top: 2rem;
+}
